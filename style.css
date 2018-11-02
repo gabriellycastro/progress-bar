@@ -1,0 +1,21 @@
+.progress {
+    width: 100%;
+    padding: 260px 0 200px 0;
+}
+
+.skills-section p {
+    text-align: left;
+}
+
+.progress-bar {
+    width: 350px;
+    height: 10px;
+    border: 1px solid #737373;
+    border-radius: 3px;
+    background-color: #f0f2f4;
+}
+
+.progress-status {
+    height: 100%;
+    background-color: #854780;
+}
